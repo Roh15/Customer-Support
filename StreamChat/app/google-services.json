@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "3292226016",
+    "project_id": "streamchat-2f99d",
+    "storage_bucket": "streamchat-2f99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3292226016:android:3e51db78d8aa0bea3fcb85",
+        "android_client_info": {
+          "package_name": "com.example.streamchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3292226016-lvs7cpqoeb4no8uo9rg2qo3tq1hunbiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streamchatdemo",
+            "certificate_hash": "6f60cd2ad6230b49715f16eaf65c530e045d58e3"
+          }
+        },
+        {
+          "client_id": "3292226016-l9caj6gkicf5m8pkphh7k66elrni6i2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7INOoMLT3hZYYrwOZbqKEf_nilXZ9Kkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3292226016-l9caj6gkicf5m8pkphh7k66elrni6i2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
